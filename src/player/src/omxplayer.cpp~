@@ -1,0 +1,11 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+int main()
+{
+	//while(1)
+	//{
+	system("mplayer 下载/1-Liu.ruo.ying后来.mp3");
+	//}
+	return 0;
+}
